@@ -1,0 +1,17 @@
+.fornWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.input {
+  padding: 5px 10px;
+  font-size: 1rem;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
